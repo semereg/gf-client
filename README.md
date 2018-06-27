@@ -1,4 +1,4 @@
-### I created this project to learn a new tech, it includes: 
+### I created this project to learn a new tech, it includes:
     - Fusebox
     - typescript
     - circle ci
@@ -6,12 +6,12 @@
     - helm (coming up)
     - google cloud platform
 
-## running application
-  ### dev mode
+### running application
+  #### dev mode
     - npm start or node fuse.js
-  ### test
+  #### test
     - npm test or node fuse.js test
-  ### test
+  #### clean
     - node fuse.js clean
-  ### production
+  #### production
     - node fuse.js dist

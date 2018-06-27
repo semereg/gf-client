@@ -1,4 +1,4 @@
-I created this project to learn a new tech, it includes: 
+### I created this project to learn a new tech, it includes: 
     - Fusebox
     - typescript
     - circle ci

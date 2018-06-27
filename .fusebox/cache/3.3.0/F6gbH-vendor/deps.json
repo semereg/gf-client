@@ -1,0 +1,30 @@
+{
+  "tree": {
+    "moment@2.22.2": {
+      "deps": {},
+      "name": "moment",
+      "version": "2.22.2"
+    },
+    "fuse-box-css@0.0.1": {
+      "deps": {},
+      "name": "fuse-box-css",
+      "version": "0.0.1"
+    }
+  },
+  "flat": {
+    "moment@2.22.2": {
+      "name": "moment",
+      "version": "2.22.2",
+      "files": [
+        "moment.js"
+      ]
+    },
+    "fuse-box-css@0.0.1": {
+      "name": "fuse-box-css",
+      "version": "0.0.1",
+      "files": [
+        "index.js"
+      ]
+    }
+  }
+}

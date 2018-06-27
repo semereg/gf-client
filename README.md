@@ -1,10 +1,10 @@
 # Fusebox and typescript
 
-# dev mode
+## dev mode
   - npm start or node fuse.js
-# test
+## test
   - npm test or node fuse.js test
-# test
+## test
   - node fuse.js clean
-# production
+## production
   - node fuse.js dist

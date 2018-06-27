@@ -2,4 +2,3 @@ src/tsconfig.json
 node_modules/
 dist/
 .fusebox/
-package-lock.json

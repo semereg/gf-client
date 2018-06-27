@@ -25,6 +25,12 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
 
       # run tests!
-      - run: yarn test
+      - run:
+        name: run test
+        command: npm test
+
       - store_test_results: # special step to upload test results for display in Test Summary
+          name: save test
+          ommand: rm test-results.xml
+          command: touch test-results.xml
           path: test-results.xml
